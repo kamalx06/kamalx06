@@ -33,7 +33,7 @@ I'm a final-year Cybersecurity student at Vilnius University Kaunas Faculty. I f
 
 <br><br>
 
-<h3><font color="#800000">▸ Professional Snapshot</font></h3>
+<img src="https://img.shields.io/badge/▸_Professional_Snapshot-800000?style=for-the-badge" alt="Professional Snapshot" />
 
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
@@ -59,14 +59,14 @@ I'm a final-year Cybersecurity student at Vilnius University Kaunas Faculty. I f
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 <td width="55%" valign="top" style="border: none; padding-right: 20px;">
-<h3><font color="#800000">▸ Core Focus & Interests</font></h3>
+<img src="https://img.shields.io/badge/▸_Core_Focus_%26_Interests-800000?style=for-the-badge" alt="Core Focus" />
 <p><b>Offensive Security:</b> Penetration testing (web, OS, network, infrastructure), Active Directory enumeration & attack-path analysis, vulnerability assessment, exploit development.</p>
 <p><b>Digital Forensics & Malware Analysis:</b> Evidence analysis, incident investigation, reverse engineering of malicious code, threat detection, data recovery.</p>
 <p><b>Defensive Security:</b> SIEM/IDS/IPS/WAF deployment (Wazuh, Suricata, ModSecurity, SafeLine), NGFW configuration (Palo Alto VM-Series), network segmentation, hardening.</p>
 <p><b>AI & Automation:</b> AI-driven intrusion detection using machine learning, behavioral analysis, Python/Bash scripting for security automation, tool development.</p>
 </td>
 <td width="45%" valign="top" style="border: none; padding-left: 20px; border-left: 1px solid #333;">
-<h3><font color="#800000">▸ Technology Stack</font></h3>
+<img src="https://img.shields.io/badge/▸_Technology_Stack-800000?style=for-the-badge" alt="Technology Stack" />
 
 <p><b>Languages & Scripting</b><br>
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E5E4E2&color=800000" />
@@ -172,7 +172,7 @@ I'm a final-year Cybersecurity student at Vilnius University Kaunas Faculty. I f
 
 <br>
 
-<h3><font color="#800000">▸ Recent Projects</font></h3>
+<img src="https://img.shields.io/badge/▸_Recent_Projects-800000?style=for-the-badge" alt="Recent Projects" />
 
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
@@ -215,14 +215,13 @@ Open-source utility for exporting and importing KVM virtual machines. Every file
 
 <br><br>
 
-<h3><font color="#800000">▸ Developer Card</font></h3>
+<img src="https://img.shields.io/badge/▸_Developer_Card-800000?style=for-the-badge" alt="Developer Card" />
 
 <div align="center">
 <table style="border: 1px solid #333; width: 100%; border-radius: 5px;">
 <tr>
 <td width="35%" align="left" valign="top" style="border-right: 1px solid #333; padding: 15px;">
 <pre style="background: none; border: none; font-size: 13px; font-weight: bold; margin: 0;">
-<font color="#800000">
   ┌──[kamalx06@parrot]──[~]
   │
   │ $ whoami
@@ -235,21 +234,20 @@ Open-source utility for exporting and importing KVM virtual machines. Every file
   │ senior_red_teamer
   │
   └──╼ $
-</font>
 </pre>
 </td>
 <td width="65%" align="left" valign="top" style="padding: 15px;">
 <p align="left" style="font-family: monospace; font-size: 14px; margin: 0;">
-<font color="#800000"><b>kamalx06@github</b></font><br>
+<b>kamalx06@github</b><br>
 -------------------------<br>
-<font color="#800000"><b>Name:</b></font> Kamal<br>
-<font color="#800000"><b>Focus:</b></font> Penetration Testing / Red Teaming / AI Security<br>
-<font color="#800000"><b>Education:</b></font> Vilnius University, Cybersecurity (final year)<br>
-<font color="#800000"><b>Certifications:</b></font> CompTIA Security+, HTB CPTS<br>
-<font color="#800000"><b>Current Stack:</b></font> Python, Bash, Linux, Windows, Security Tooling<br>
-<font color="#800000"><b>Currently Preparing:</b></font> CRTO (Certified Red Team Operator)<br>
-<font color="#800000"><b>Goal:</b></font> Senior Red Team Operator<br>
-<font color="#800000"><b>Status:</b></font> Building, breaking, and learning.
+<b>Name:</b> Kamal<br>
+<b>Focus:</b> Penetration Testing / Red Teaming / AI Security<br>
+<b>Education:</b> Vilnius University, Cybersecurity (final year)<br>
+<b>Certifications:</b> CompTIA Security+, HTB CPTS<br>
+<b>Current Stack:</b> Python, Bash, Linux, Windows, Security Tooling<br>
+<b>Currently Preparing:</b> CRTO (Certified Red Team Operator)<br>
+<b>Goal:</b> Senior Red Team Operator<br>
+<b>Status:</b> Building, breaking, and learning.
 </p>
 </td>
 </tr>
