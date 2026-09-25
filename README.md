@@ -33,7 +33,7 @@ I'm a final-year Cybersecurity student at Vilnius University Kaunas Faculty. I f
 
 <br><br>
 
-<h3 style="color: #800000;">▸ Professional Snapshot</h3>
+<h3><font color="#800000">▸ Professional Snapshot</font></h3>
 
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
@@ -59,14 +59,14 @@ I'm a final-year Cybersecurity student at Vilnius University Kaunas Faculty. I f
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 <td width="55%" valign="top" style="border: none; padding-right: 20px;">
-<h3 style="color: #800000;">▸ Core Focus & Interests</h3>
+<h3><font color="#800000">▸ Core Focus & Interests</font></h3>
 <p><b>Offensive Security:</b> Penetration testing (web, OS, network, infrastructure), Active Directory enumeration & attack-path analysis, vulnerability assessment, exploit development.</p>
 <p><b>Digital Forensics & Malware Analysis:</b> Evidence analysis, incident investigation, reverse engineering of malicious code, threat detection, data recovery.</p>
 <p><b>Defensive Security:</b> SIEM/IDS/IPS/WAF deployment (Wazuh, Suricata, ModSecurity, SafeLine), NGFW configuration (Palo Alto VM-Series), network segmentation, hardening.</p>
 <p><b>AI & Automation:</b> AI-driven intrusion detection using machine learning, behavioral analysis, Python/Bash scripting for security automation, tool development.</p>
 </td>
 <td width="45%" valign="top" style="border: none; padding-left: 20px; border-left: 1px solid #333;">
-<h3 style="color: #800000;">▸ Technology Stack</h3>
+<h3><font color="#800000">▸ Technology Stack</font></h3>
 
 <p><b>Languages & Scripting</b><br>
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E5E4E2&color=800000" />
@@ -160,10 +160,10 @@ I'm a final-year Cybersecurity student at Vilnius University Kaunas Faculty. I f
 
 <p><b>Defensive Stack</b><br>
 <img src="https://img.shields.io/badge/Wazuh-0D1117?style=flat-square&logo=wazuh&logoColor=E5E4E2&color=800000" />
-<img src="https://img.shields.io/badge/Splunk-0D1117?style=flat-square&logo=wazuh&logoColor=E5E4E2&color=800000" />
+<img src="https://img.shields.io/badge/Splunk-0D1117?style=flat-square&logo=splunk&logoColor=E5E4E2&color=800000" />
 <img src="https://img.shields.io/badge/Suricata-0D1117?style=flat-square&logo=suricata&logoColor=E5E4E2&color=800000" />
 <img src="https://img.shields.io/badge/ModSecurity-0D1117?style=flat-square&logo=modsecurity&logoColor=E5E4E2&color=800000" />
-<img src="https://img.shields.io/badge/Palo_Alto NGFW-0D1117?style=flat-square&logo=paloaltonetworks&logoColor=E5E4E2&color=800000" />
+<img src="https://img.shields.io/badge/Palo_Alto_NGFW-0D1117?style=flat-square&logo=paloaltonetworks&logoColor=E5E4E2&color=800000" />
 <img src="https://img.shields.io/badge/Zeek-0D1117?style=flat-square&color=800000" />
 </p>
 </td>
@@ -172,7 +172,7 @@ I'm a final-year Cybersecurity student at Vilnius University Kaunas Faculty. I f
 
 <br>
 
-<h3 style="color: #800000;">▸ Recent Projects</h3>
+<h3><font color="#800000">▸ Recent Projects</font></h3>
 
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
@@ -215,13 +215,14 @@ Open-source utility for exporting and importing KVM virtual machines. Every file
 
 <br><br>
 
-<h3 style="color: #800000;">▸ Developer Card</h3>
+<h3><font color="#800000">▸ Developer Card</font></h3>
 
 <div align="center">
-<table style="border: 1px solid #333; background-color: #0D1117; padding: 20px; width: 100%; border-radius: 5px;">
+<table style="border: 1px solid #333; width: 100%; border-radius: 5px;">
 <tr>
-<td width="30%" align="center" valign="middle" style="border-right: 1px solid #333;">
-<pre style="color: #800000; background: none; border: none; font-size: 13px; font-weight: bold; text-align: left; margin: 0;">
+<td width="35%" align="left" valign="top" style="border-right: 1px solid #333; padding: 15px;">
+<pre style="background: none; border: none; font-size: 13px; font-weight: bold; margin: 0;">
+<font color="#800000">
   ┌──[kamalx06@parrot]──[~]
   │
   │ $ whoami
@@ -234,20 +235,21 @@ Open-source utility for exporting and importing KVM virtual machines. Every file
   │ senior_red_teamer
   │
   └──╼ $
+</font>
 </pre>
 </td>
-<td width="70%" valign="middle" style="padding-left: 20px;">
-<p style="font-family: monospace; font-size: 14px; margin: 0; color: #E5E4E2;">
-<b style="color: #800000;">kamalx06@github</b><br>
+<td width="65%" align="left" valign="top" style="padding: 15px;">
+<p align="left" style="font-family: monospace; font-size: 14px; margin: 0;">
+<font color="#800000"><b>kamalx06@github</b></font><br>
 -------------------------<br>
-<b style="color: #800000;">Name:</b> Kamal<br>
-<b style="color: #800000;">Focus:</b> Penetration Testing / Red Teaming / AI Security<br>
-<b style="color: #800000;">Education:</b> Vilnius University, Cybersecurity (final year)<br>
-<b style="color: #800000;">Certifications:</b> CompTIA Security+, HTB CPTS<br>
-<b style="color: #800000;">Current Stack:</b> Python, Bash, Linux, Windows, Security Tooling<br>
-<b style="color: #800000;">Currently Preparing:</b> CRTO (Certified Red Team Operator)<br>
-<b style="color: #800000;">Goal:</b> Senior Red Team Operator<br>
-<b style="color: #800000;">Status:</b> Building, breaking, and learning.
+<font color="#800000"><b>Name:</b></font> Kamal<br>
+<font color="#800000"><b>Focus:</b></font> Penetration Testing / Red Teaming / AI Security<br>
+<font color="#800000"><b>Education:</b></font> Vilnius University, Cybersecurity (final year)<br>
+<font color="#800000"><b>Certifications:</b></font> CompTIA Security+, HTB CPTS<br>
+<font color="#800000"><b>Current Stack:</b></font> Python, Bash, Linux, Windows, Security Tooling<br>
+<font color="#800000"><b>Currently Preparing:</b></font> CRTO (Certified Red Team Operator)<br>
+<font color="#800000"><b>Goal:</b></font> Senior Red Team Operator<br>
+<font color="#800000"><b>Status:</b></font> Building, breaking, and learning.
 </p>
 </td>
 </tr>
